@@ -1,1 +1,2 @@
-# Face-Recognition-with-Real-Time-Entry
+Open the Folder in Pycharm
+Before Running the Code Install certain Libraries. Open Settings -> Project Face- Recognition -> Python Interpreter. Install Pillow, cmake, cvzone, dlib, face-recognition, face-recognition-models, numpy, opencv-python, opencv-contrib-python.
